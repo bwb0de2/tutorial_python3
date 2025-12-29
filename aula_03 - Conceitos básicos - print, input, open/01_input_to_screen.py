@@ -4,3 +4,5 @@
 # 
 
 
+msg = input("Escreva algo: ")
+print(msg)
